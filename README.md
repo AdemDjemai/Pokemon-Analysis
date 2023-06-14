@@ -33,8 +33,13 @@ Pokemon-Analysis
 
 ## 📍 Overview
 
-Expliquer le projet ici avec quelques mots
+In this project, I have worked on a mini-project in the field of Data Science and Machine Learning, with a focus on Pokémon. Being a devoted Pokémon fan, I decided to leverage the extensive data and statistics available in the Pokémon universe to create data visualizations and develop two Machine Learning solutions.
 
+The first solution in this project involves the classification of Pokémon, determining whether they are legendary or not based on their statistics. This allows us to determine if a Pokémon possesses unique qualities that make it legendary within the Pokémon world.
+
+The second solution aims to predict the outcome of battles between two Pokémon. By analyzing the statistics of each Pokémon and training the model on a dataset of recorded battles, we can forecast which Pokémon will emerge as the winner.
+
+Throughout this project, I have enjoyed immersing myself in the world of Pokémon while applying my knowledge and skills in Data Science and Machine Learning. By exploring Pokémon data and developing predictive models, I have gained valuable insights into the statistical aspects of Pokémon. This project has been an exciting opportunity to combine my passion for Pokémon with the power of data analysis and machine learning techniques.
 ---
 
 ## 💫 Features
@@ -118,9 +123,14 @@ repo
 ### ✅ Prerequisites
 
 Before you begin, ensure that you have the following prerequisites installed:
-> - [📌  PREREQUISITE-1]
-> - [📌  PREREQUISITE-2]
-> - ...
+> - Install Python: Make sure you have Python installed on your system. You can download the latest version of Python from the official Python website (https://www.python.org/) and follow the installation instructions specific to your operating system.
+> - Set up a virtual environment (optional but recommended): It's a good practice to create a virtual environment to isolate your project dependencies. Open a terminal or command prompt and run the following commands:
+    On Windows:
+        python -m venv myenv
+        myenv\Scripts\activate
+    On macOS and Linux:
+        python3 -m venv myenv
+    source myenv/bin/activate
 
 ### 🖥 Installation
 
@@ -155,9 +165,9 @@ pytest notebook_test.py
 
 ## 🗺 Roadmap
 
-> - [X] [📌  Task 1: Implement X]
-> - [ ] [📌  Task 2: Refactor Y]
-> - [ ] [📌  Task 3: Optimize Z]
+> - [X] [📌  Task 1: Data Visualization and Analysis of Pokemon's Dataset]
+> - [X] [📌  Task 2: ML Legendary Classification of Pokemon]
+> - [X] [📌  Task 3: ML Prediction of a Pokemon Battle]
 > - [ ] ...
 
 
@@ -189,12 +199,17 @@ The project maintainers will review your changes and provide feedback or merge t
 
 ## 📄 License
 
-This project is licensed under the `[📌  INSERT-LICENSE-TYPE]` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
+This project is licensed under the `[📌  MIT License]` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
 
 ---
 
 ## 👏 Acknowledgments
 
-> - [📌  List any resources, contributors, inspiration, etc.]
-
+> - Inspiration: This project was inspired by my passion for Pokémon. As a long-time fan, I wanted to explore and analyze Pokémon data using data analysis techniques.
+> - Resources:
+    Kaggle: The Pokémon dataset used in this project was obtained from Kaggle, a platform for data science and machine learning.
+    GitHub: Various open-source projects and repositories on GitHub provided valuable insights and ideas for implementing the Pokémon analysis.
+    Pokepedia Website: The Pokepedia website served as a comprehensive resource for gathering information and details about Pokémon, their attributes, and battle statistics.
+> - Special thanks to:
+    Khaled: I would like to express my sincere gratitude to Khaled for his invaluable help and mentorship throughout this project. His guidance and expertise have been instrumental in shaping the direction of this analysis.
 ---

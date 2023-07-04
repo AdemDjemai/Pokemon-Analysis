@@ -94,7 +94,7 @@ repo
 
 | File                  | Summary                                                                                                                       | Module                                  |
 |:----------------------|:------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|
-| PokemonBattleML.ipynb | Explain file here | battle-prediction/PokemonBattleML.ipynb |
+| PokemonBattleML.ipynb | Pokemon Battle Prediction | battle-prediction/PokemonBattleML.ipynb |
 
 
 </details>
@@ -103,7 +103,7 @@ repo
 
 | File                 | Summary                              | Module                                 |
 |:---------------------|:-------------------------------------|:---------------------------------------|
-| DataVizPokemon.ipynb | Explain file here | dataset-stats-viz/DataVizPokemon.ipynb |
+| DataVizPokemon.ipynb | Dataviz Analysis of Pokemon Universe | dataset-stats-viz/DataVizPokemon.ipynb |
 
 </details>
 
@@ -111,7 +111,7 @@ repo
 
 | File              | Summary                                                                                                                       | Module                                     |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|
-| LegendaryML.ipynb | Explain file here | legendary-classification/LegendaryML.ipynb |
+| LegendaryML.ipynb | ML Classification of Pokemon | legendary-classification/LegendaryML.ipynb |
 
 
 </details>
